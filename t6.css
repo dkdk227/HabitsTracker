@@ -5,6 +5,8 @@
     animation: fadeIn 0.6s ease forwards;
 }
 body {
+    background: linear-gradient(180deg, #c9d6e3, #a8c0d6) !important;
+    min-height: 100vh;
     background-image: url(fon.webp);
     background-size: cover; /* Растягивает на всю ширину и высоту */
     background-repeat: no-repeat; /* Запрещает повторение */
