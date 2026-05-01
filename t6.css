@@ -125,10 +125,10 @@ input[type="checkbox"] {
 }
 @media (max-width: 768px) {
     body {
-        min-height: 100vh;
+        background-image: none;
+        background: linear-gradient(180deg, #B0C4DE, #D3D3D3, #E8EAF6);
         background-attachment: scroll;
-        -webkit-background-size: cover;
-        background-size: cover;
+        min-height: 100vh;
     }
 
     h1 {
